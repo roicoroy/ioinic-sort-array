@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Colombia",
+        "code": "co",
+        "area": 1197411
+    },
+    {
+        "name": "Argentina",
+        "code": "ar",
+        "area": 2766890
+    },
+    {
+        "name": "Brasil",
+        "code": "br",
+        "area": 8511965
+    },
+    {
+        "name": "canada",
+        "code": "ca",
+        "area": 9984670
+    }
+]

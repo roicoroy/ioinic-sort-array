@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "headline": "Head line one",
+    "image": "assets/news-card-image.png",
+    "published_date": "23-10-2017",
+    "archived": true,
+    "content": "<p>This is a test content Unlike the native textarea element, the Ionic textarea does not support loading its value from the inner content. Unlike the native textarea element, the Ionic textarea does not support loading its value from the inner content. Unlike the native textarea element, the Ionic textarea does not support loading its value from the inner content.</p>",
+    "news_comment_url": "http://192.168.16.76:8004/api/v1/news-comment/1/"
+  },
+  {
+    "id": 3,
+    "headline": "Head line three",
+    "image": "assets/news-card-image.png",
+    "published_date": "22-11-2018",
+    "archived": true,
+    "content": "<p>Unlike the native textarea element, the Ionic textarea does not support loading its value from the inner content.</p>",
+    "news_comment_url": "http://192.168.16.76:8004/api/v1/news-comment/2/"
+  },
+  {
+    "id": 2,
+    "headline": "Head line two",
+    "image": "assets/news-card-image.png",
+    "published_date": "21-8-2019",
+    "archived": true,
+    "content": "<p>Unlike the native textarea element, the Ionic textarea does not support loading its value from the inner content. Unlike the native textarea element, the Ionic textarea does not support loading its value from the inner content. Unlike the native textarea element, the Ionic textarea does not support loading its value from the inner content. Unlike the native textarea element, the Ionic textarea does not support loading its value from the inner content.</p>",
+    "news_comment_url": "http://192.168.16.76:8004/api/v1/news-comment/3/"
+  },
+  {
+    "id": 4,
+    "headline": "Head line four",
+    "image": "assets/news-card-image.png",
+    "published_date": "11-6-2015",
+    "archived": true,
+    "content": "<p>Unlike the native textarea element, the Ionic textarea does not support loading its value from the inner content. Unlike the native textarea element, the Ionic textarea does not support loading its value from the inner content. Unlike the native textarea element, the Ionic textarea does not support loading its value from the inner content. Unlike the native textarea element, the Ionic textarea does not support loading its value from the inner content.</p>",
+    "news_comment_url": "http://192.168.16.76:8004/api/v1/news-comment/3/"
+  }
+]
